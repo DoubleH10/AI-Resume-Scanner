@@ -1,0 +1,33 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+joblib
+streamlit
+plotly
+
+# PDF Processing
+pdfminer.six
+
+# NLP Libraries
+nltk
+spacy
+transformers
+torch
+sentence-transformers
+
+# Video Handling (YouTube Embedding)
+pafy
+yt-dlp
+
+# Database & Storage
+sqlite-utils  # Optional, needed for managing SQLite databases
+
+# Model Training
+xgboost  # If using XGBoost (ensure OpenMP is installed on Mac)
+tensorflow  # If using deep learning models
+
+# Additional dependencies
+requests
+tqdm
+beautifulsoup4  # If you ever need web scraping for resumes
